@@ -1,4 +1,4 @@
-This page contains my curated list of book recommondation/wishlist for software engineer along with my rating for the books that I read.
+This page contains my curated list of book recommendations/wishlists for software engineers along with my rating for the books that I read.
 
 **Enterprise App Development**
 * Programming Languages, Frameworks, & Tools
