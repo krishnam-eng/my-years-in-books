@@ -1,3 +1,7 @@
+Goodreads Reading Challages: number of books read on each year of set reading-goal-books-count in that year.
+
+_* The snippet shows the books that I completed 100% and it didn't show the partial reads. _
+
 #### 2013
 ![image](https://user-images.githubusercontent.com/82016952/146872820-393dd0a5-2931-43e9-8729-5da7b7476318.png)
 
