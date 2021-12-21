@@ -1,4 +1,6 @@
-This page contains my curated list of book recommendations/wishlists for software engineers along with my rating for the books that I read.
+wip:
+
+This README page contains my curated list of book recommendations/wishlists catogirized as below. View [my-years-in-book](https://github.com/krishnam-eng/my-years-in-books/blob/main/my-years-in-books.md) page for the list of books that I completed 100%. 
 
 **Enterprise App Development**
 * Programming Languages, Frameworks, & Tools
